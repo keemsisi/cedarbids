@@ -1,0 +1,127 @@
+Categories of bidding :
+=>Business Services/ Supplies (393)
+    Printing Services/ Graphics/ Imaging/ Desktop design / Equipment (32)
+    Security Services / Supplies (62)
+    Signage/ Billboards (21)
+    Shipping/ Courier, Transportation Services/ Storage Services (48)
+    Real Estate Services (39)
+    Pest Control/Animal Services / Supplies (12)
+    Recycling Goods and Waste Removal / Management Services (43)
+    Safety Equipment/ Services / Supplies (63)
+    Hospitality/ Conference/ Special Events/ Travel Services (28)
+    Marketing/ Promotional/ Advertising Services (47)
+    Clothing and Textiles (23)
+    Nursery and Plants (6)
+    Sale of Surplus Goods (20)
+    Janitorial/ Cleaning Services / Equipment and Supplies (39)
+----------------------------------------------------------------------------------
+=>Agricultural/ Forestry/ Mining (564)
+    Mining Products/ Services/ Consulting (7)
+    Agricultural Products/ Services (6)
+    Forestry Products/ Services (31)
+    Agricultural Equipment (9)
+
+----------------------------------------------------------------------------------
+=>Automotive/ Industrial (4767)
+    Industrial Vehicles/ Equipment (85)
+    Aviation Supplies/ Services (28)
+    Recreational Vehicles and Services (19)
+    Heavy Equipment/ Vehicles (56)
+    Tools/ Supplies/ Parts (79)
+    Passenger Vehicles (27)
+    Automotive Services (38)
+-----------------------------------------------------------------------------------
+=>Business Services/ Supplies (16506)
+    Printing Services/ Graphics/ Imaging/ Desktop design / Equipment (32)
+    Security Services / Supplies (62)
+    Signage/ Billboards (21)
+    Shipping/ Courier, Transportation Services/ Storage Services (48)
+    Real Estate Services (39)
+    Pest Control/Animal Services / Supplies (12)
+    Recycling Goods and Waste Removal / Management Services (43)
+    Safety Equipment/ Services / Supplies (63)
+    Hospitality/ Conference/ Special Events/ Travel Services (28)
+    Marketing/ Promotional/ Advertising Services (47)
+    Clothing and Textiles (23)
+    Nursery and Plants (6)
+    Sale of Surplus Goods (20)
+    Janitorial/ Cleaning Services / Equipment and Supplies (39)
+-----------------------------------------------------------------------------------
+=>Energy/ Fuel/ Chemical (1245)
+    Nuclear Energy Industry Services/Nuclear Waste Management (5)
+    Chemical Products/ Services (19)
+    Renewable Energy (2)
+    Energy Products/ Services/ Management (44)
+    Fuel Products/ Services 
+------------------------------------------------------------------------------------
+=>Computers (2760)
+    IT Consulting (154)
+    Computer Services (174)
+    Computer Hardware (75)
+    Computer Software (103)
+------------------------------------------------------------------------------------
+=>Construction (31542)
+    Roads/ Sewer/ Watermain (154)
+    Construction/ Project Manager (387)
+    Building Projects/ Renovation/ Demolition Projects (429)
+    Heating/Plumbing/ Mechanical Supplies/ Services (222)
+    Landscaping/ Grounds Maintenance/ Supplies (92)
+    Winter Maintenance/ Supplies (56)
+    Roofing Supplies/ Services (70)
+    Painting Supplies/ Services (53)
+    Electrical Supplies/ Services (178)
+    Water Treatment/ Plants (89)
+    Construction Hardware (114)
+    Parks/ Recreational Facilities (67)
+    Bridges/ Elevated Highways/ Tunnels/ Subways/ Railroads (79)
+    Construction Materials/ Equipment (170)
+------------------------------------------------------------------------------------
+=>Consulting Services (11676)
+    
+------------------------------------------------------------------------------------
+=>Food Industry (324)
+    Food Services / Supplies/ Equipment (39)
+    Food Products (30)
+------------------------------------------------------------------------------------
+=>Office Supplies (780)
+    Paper/ Stationery (11)
+    General Supplies (6)
+    Office Equipment/ Services (excluding computers!) (13)
+    Furniture/ Other Specialty Wares (47)
+------------------------------------------------------------------------------------
+=>Unclassified Categories (9)
+    (3) Miscellaneous (3)
+------------------------------------------------------------------------------------
+=>Medical/ Surgical (3078)
+    Medical Equipment/ Instruments (77)
+    Dental Equipment/ Services (5)
+    Social Programs/ Services (46)
+    Pharmaceuticals/ Services (19)
+    Medical Supplies (33)
+    Medical Consulting/ Services (68)
+------------------------------------------------------------------------------------
+=>Electronics/ Appliances (264)
+    General Appliances (9)
+    Audio/ Visual Electronics & Services (35)
+------------------------------------------------------------------------------------
+=>Educational/ Recreational (6696):
+    Books (1)
+    Primary Educational Supplies (1)
+    Educational/ Trade Equipment And Supplies (9)
+    Training/ Education/ Consulting (116)
+    Science Equipment/ Supplies and Laboratory Services (114)
+    Theatrical/ Staging Supplies/ Services (2)
+    Musical Instruments/ Supplies/ Services (2)
+    Library Services/ Supplies (3)
+    Sports Equipment/ Services (10)
+------------------------------------------------------------------------------------
+=>Telecommunications (486) :
+    Network Cabling/ Fibre Optics Products and Services (14)
+    Telecom Equipment/ Supplies and services (35)
+    Tele-Consulting/ Services (37)
+-----------------------------------------------------------------------------------
+
+
+Biddng Documents requirements:
+    The bidding Documents should be submitted after the computer the company has joined the the bidding.
+    the tender documents will also be submitted after the.
